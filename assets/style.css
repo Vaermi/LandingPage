@@ -12,7 +12,11 @@ body {
   color: var(--text-light);
 }
 
-h1, h2, h5 {
+h1 {
+    color: var(--text-dark);
+}
+
+h5 {
   color: var(--text-light);
 }
 
