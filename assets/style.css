@@ -21,22 +21,12 @@ h1, h2, h5 {
 }
 
 .hero {
-  background-color: #f8f9fa;
   padding: 80px 0;
   text-align: center;
-  color: #333;
 }
 
 .hero h1 {
   font-size: 3rem;
-}
-
-.ueber-mich {
-    color: #333;
-}
-
-.links {
-    color: #333;
 }
 
 /* Buttons */
