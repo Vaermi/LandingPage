@@ -1,10 +1,10 @@
-# Doris – Persönliche Landingpage
+# Doris Drye – Persönliche Landingpage
 
-Willkommen! Dies ist meine persönliche Landingpage als Softwareentwicklerin mit Fokus auf Frontend und CAD/PLM-Anwendungen.
+Willkommen! Dies ist meine persönliche Landingpage als Softwareentwicklerin
 
 ## 🔍 Über mich
 
-Ich habe drei Jahre Erfahrung in der Fullstack-Entwicklung, insbesondere mit Angular und WPF/C#. Meine Projekte reichen von CAD-nahen Tools im Automotive-Bereich bis zu modernen Webanwendungen. Ich arbeite gerne in agilen Teams und lege Wert auf sauberen Code und klare Kommunikation.
+Ich habe drei Jahre Erfahrung in der Fullstack-Entwicklung, insbesondere mit Java, Angular und WPF/C#. Meine Projekte reichen von CAD-nahen Tools im Automotive-Bereich bis zu modernen Webanwendungen. Ich arbeite gerne in agilen Teams und lege Wert auf sauberen Code und klare Kommunikation.
 
 ## 🧱 Technologien
 
