@@ -1,0 +1,53 @@
+:root {
+  --bg-dark: #1c1f26;
+  --text-light: #f5f5f5;
+  --accent: #00bfa5;
+  --accent-alt: #ff4081;
+}
+
+/* Grundlayout */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text-light);
+}
+
+h1, h2, h5 {
+  color: var(--text-light);
+}
+
+.section {
+  padding: 60px 0;
+}
+
+.hero {
+  background-color: #f8f9fa;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--accent);
+  border: none;
+}
+
+/* Footer */
+footer {
+  background-color: #121417;
+  color: var(--text-light);
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-alt);
+}
