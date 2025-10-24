@@ -1,0 +1,17 @@
+# Node modules (falls du später npm nutzt)
+node_modules/
+
+# Build-Ordner (z. B. bei Webpack oder anderen Tools)
+dist/
+build/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# VS Code Einstellungen
+.vscode/
+
+# Temporäre Dateien
+*.log
+*.tmp
