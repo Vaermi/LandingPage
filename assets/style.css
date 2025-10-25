@@ -6,14 +6,22 @@
 }
 
 /* Grundlayout */
-body {
+html, body {
   font-family: 'Segoe UI', sans-serif;
   background-color: var(--bg-dark);
   color: var(--text-light);
+  height: 100%;
+  margin: 0;
 }
 
 h1, h5 {
   color: var(--text-light);
+}
+
+section h1,
+section h2,
+section h3 {
+  text-align: center;
 }
 
 .section {
@@ -35,12 +43,6 @@ h1, h5 {
   border: none;
 }
 
-/* Footer */
-footer {
-  background-color: #121417;
-  color: var(--text-light);
-}
-
 /* Links */
 a {
   color: var(--accent);
@@ -49,4 +51,39 @@ a {
 
 a:hover {
   color: var(--accent-alt);
+}
+
+/* Wrapper für Sticky Footer */
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Inhalt mittig zentriert */
+.content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+/* Impressum-Box */
+.impressum-box {
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Footer */
+.footer {
+  background-color: #121417;
+  color: var(--text-light);
+  padding: 20px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: underline;
 }

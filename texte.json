@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "headline": "Hallo, ich bin Doris Drye",
+    "subline": "Softwareentwicklerin mit 3 Jahren Fullstack Expertise in Java, Angular und WPF/C#.",
+    "button": "Kontakt aufnehmen"
+  },
+  "ueberMich": {
+    "title": "Über mich",
+    "text1": "Ich bin Softwareentwicklerin mit drei Jahren Berufserfahrung in der Entwicklung produktiver Anwendungen, von der Konzeption bis zum Go-Live. Mein bisheriger Schwerpunkt liegt auf modernen Frontend-Technologien wie Angular und WPF/C#, insbesondere im CAD-nahen Automotive-Umfeld. Darüber hinaus habe ich auch mit anderen Technologien gearbeitet, unter anderem im Backend mit Java. Ich freue mich immer, wenn ich neue Tools und Konzepte kennenlernen und mich in neue Themen einarbeiten kann.",
+    "text2": "Mein Weg in die IT war kein geradliniger, sondern geprägt von Neugier, Eigeninitiative und einem starken Willen, mich kontinuierlich weiterzuentwickeln. Schon als Kind faszinierte mich die Welt der Software und Computerspiele. Der Wunsch, selbst Programme zu entwickeln, hat mich nie losgelassen. Vor etwa fünf Jahren habe ich meine Leidenschaft fürs Programmieren entdeckt und begonnen, mir systematisch Wissen anzueignen. Vieles habe ich mir autodidaktisch erarbeitet, mit Ausdauer und dem festen Ziel, mich stetig zu verbessern.",
+    "text3": "Nach einem Jahr Abendschule, in dem ich die Grundlagen der Softwareentwicklung erlernte und erste Projekte umsetzen konnte, startete ich direkt bei Magna Powertrain. Dort habe ich drei Jahre lang in einem agilen Team praxisnahe Lösungen entwickelt, unter anderem für CAD-nahe Anwendungen im Automotive-Bereich.",
+    "text4": "Ich bin Quereinsteigerin mit einem breiten Interessensspektrum, einem ausgeprägten Sinn für Design und einem hohen Anspruch an Codequalität. Ich liebe es, mich in neue Technologien einzuarbeiten und bin offen für alles, was mich fachlich und persönlich weiterbringt. Mein Ziel ist es, berufsbegleitend ein Studium der Softwareentwicklung zu absolvieren, um mein Wissen weiter zu vertiefen und langfristig noch vielseitiger einsetzbar zu sein.",
+    "text5": "Für mich ist Softwareentwicklung mehr als ein Beruf. Es ist meine Leidenschaft, die mich antreibt, kreative und nachhaltige digitale Lösungen zu gestalten."
+  },
+  "projekte": {
+    "title": "Private Projekte",
+    "liste": [
+      {
+        "titel": "WanderBuddy",
+        "beschreibung": "App zur Planung und Durchführung von Wanderungen – aktuell in Entwicklung/Planung.",
+        "technologien": ["Java", "Kotlin", "Angular"]
+      },
+      {
+        "titel": "SteamRandomizer",
+        "beschreibung": "App zur zufälligen Auswahl von Steam-Spielen – aktuell in Entwicklung/Planung.",
+        "technologien": ["C#", "WPF", "MongoDB"]
+      }
+    ]
+  },
+  "links": {
+    "title": "Links & Lebenslauf",
+    "text": "Hier findest du weitere Informationen:",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/doris-drye-7a9434228"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Vaermi"
+      },
+      {
+        "label": "Lebenslauf (PDF)",
+        "url": "assets/Lebenslauf.pdf"
+      }
+    ],
+    "hinweis": "Der Lebenslauf enthält personenbezogene Daten und ist ausschließlich zur Ansicht bestimmt. Die enthaltenen Kontaktdaten dürfen nur zur Kontaktaufnahme im Rahmen beruflicher Anfragen verwendet werden. Eine Weitergabe oder anderweitige Nutzung ist nicht gestattet."
+  },
+  "kontakt": {
+    "title": "Kontakt",
+    "text": "Ich bin offen für neue berufliche Herausforderungen.",
+    "button": "E-Mail senden"
+  }
+}
