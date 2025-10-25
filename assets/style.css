@@ -81,6 +81,9 @@ a:hover {
   background-color: #121417;
   color: var(--text-light);
   padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer a {
